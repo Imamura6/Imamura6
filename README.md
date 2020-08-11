@@ -1,6 +1,6 @@
-## Hi there, I'm Vitor - aka Imamura6
+## Hi there, I'm Vitor Imamura
 
-- I’m a Mechatronics Engineer
+- I’m a Control and Automation Engineering
 - I’m currently working mostly with C++ projects
 - 2020 Goals: Develop more of my own projects
 
