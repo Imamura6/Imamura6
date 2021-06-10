@@ -2,7 +2,6 @@
 
 - I’m a Control and Automation Engineering
 - I’m currently working mostly with C++ projects
-- 2020 Goals: Develop more of my own projects
 
 ### Connect with me:
 
